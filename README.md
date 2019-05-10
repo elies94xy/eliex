@@ -1,21 +1,28 @@
-# ElieX Blockchain Protocol 
-ElieX is a decentralized autonomous organization (DAO) powered by the ElieX Blockchain Protocol (EBP) & ElieX Tokens
-https://eliex.org  
-https://eliex.io  
-https://github.com/elies94xy/eliex
-https://www.generosity.com/emergencies-fundraising/cryptocurrency-for-catalonia-for-the-world
-http://www.proofsuite.com/i/QKQbOb9MDl
+# ElieX™ Blockchain Protocol™
+
+ElieX is a decentralized autonomous organization (DAO) powered by ElieX_Blockchain_Protocol & ELX™ Tokens & SmartContracts:
+  
+Dev: https://github.com/elies94xy/eliex
+
+http://eliex.cf/
+http://elite.wf/
+http://intelwatch.net/
+
+WHITEPAPER LINK
+
+http://eliex.cf/assets/WhitepaperEliexControlFly.pdf
 
 What is ElieX?
 ----------------
 
-Bitcoin is an experimental blockchain protocol that enables instant data & value transfer to
-anyone, anywhere in the world. ElieX uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. EBP is the name of open source
-software which enables the use of its tokens and value data.
+blockchain protocols enable instant data & value transfer to
+anyone, anywhere in the world.ElieX™ Blockchain Protocol uses peer-to-peer technology to operate
+with no central authority: managing transactions and issuing DATA/VALUE & carried
+out collectively by the network. 
 
-read the original whitepaper](https://eliex.org/eliex.pdf).
+# ElieX™ Blockchain Protocol™ is the name of open source software which enables the use of its  ElieX™Tokens (ELX) /SmartContracts data.
+
+read the original whitepaper]().
 
 License
 -------
